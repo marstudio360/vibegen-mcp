@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "vibegen": {
+      "command": "python",
+      "args": ["server.py"],
+      "env": { "STUDIO_URL": "http://localhost:3000" }
+    }
+  }
+}

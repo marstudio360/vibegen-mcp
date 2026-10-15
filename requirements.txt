@@ -1,2 +1,4 @@
 fastmcp>=3.2.0
 requests>=2.33.0
+# optional, for render_still / render_video / render_song / list_catalog:
+# playwright>=1.45  (then: playwright install chromium)
